@@ -27,6 +27,23 @@ Follow same conventions to single-qubit ones. For example a two-qubit (meaning t
  
 
  - ⊗ **Tensor product**: combines two quantum states into a larger one. Here we combine HS and X.
- - H: Hadamard gate creates superposition.
- - S (Phase gate): adds a phase of (\pi/2)
+ - H: Hadamard gate creates equal superposition and transforms base sates. ![enter image description here](https://www.mathworks.com/help/matlab/math/gatesymbol_hgate.png)
+ - S (Phase gate): adds a phase of ($\pi$/2) to |1 $\rangle$
+ ![enter image description here](https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Qcircuit_S.svg/225px-Qcircuit_S.svg.png)
+ 
+ - T (Phase gate): adds a phase of ($\pi$/4) to |1 $\rangle$
+ ![enter image description here](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Qcircuit_T.svg/225px-Qcircuit_T.svg.png)
+ 
+ - Z (Pauli-Z gate): flips the phase of qubit 1 to -1 but leaves |0 $\rangle$ as is.
+ ![enter image description here](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Qcircuit_Z.svg/162px-Qcircuit_Z.svg.png)
+ - X (Pauli-X NOT gate): flips state of qubit
+ ![enter image description here](https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Qcircuit_X.svg/225px-Qcircuit_X.svg.png)
+ 
+ - Y (Pauli-Y gate): flips the state and phase
+![enter image description here](https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Qcircuit_CY.svg/189px-Qcircuit_CY.svg.png)
 
+ - CNOT (Controlled-NOT Gate):  two-qubit gate that flips the second qubit(target) if its state is |0 
+$\rangle$. (performs a Pauli-X on target but remains unchanged if control/first cubit is in 0 state.)
+ ![CNOT gate](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-4xCoqItaoyu0fq5tdhF73yx-ssLU1ji75w&s)
+
+- 
