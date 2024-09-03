@@ -9,6 +9,7 @@ Quantum gates are applied to qubits to entangle them and manipulate probabilitie
 > Exploiting superposition and entanglement would be more efficient than whatever would be possible on normal computer
 
 <detail>
+
 	<summary>Uses for quantum computing</summary>
 	
  - Database searching
