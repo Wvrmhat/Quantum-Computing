@@ -10,7 +10,8 @@ Quantum gates are applied to qubits to entangle them and manipulate probabilitie
 
 <detail>
 
-	<summary>Uses for quantum computing</summary>
+	
+ <summary>Uses for quantum computing</summary>
 	
  - Database searching
  - Decryption of private/RSA keys
