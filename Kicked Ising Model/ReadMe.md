@@ -3,7 +3,7 @@
 <details>
 	<summary>Glossary</summary>
 	
-	Ising model: The traditional ising model is used to describe ferromagnetism in stats mechanics. It consists of spins that can be in a state of (+1 or -1). The energy is determined by the alignment of these spins. (it helps identify phase transitions of matter).
+	+ Ising model: The traditional ising model is used to describe ferromagnetism in stats mechanics. It consists of spins that can be in a state of (+1 or -1). The energy is determined by the alignment of these spins. (it helps identify phase transitions of matter).
 
 	Ferromagnetism: The way certain materials are attracted to one another. It is responsible for magnetism in magnets.
 
