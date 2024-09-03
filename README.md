@@ -8,17 +8,15 @@ Quantum gates are applied to qubits to entangle them and manipulate probabilitie
 > Normal logic gates take a set of inputs and has one definite output
 > Exploiting superposition and entanglement would be more efficient than whatever would be possible on normal computer
 
-<detail>
-
-	
- <summary>Uses for quantum computing</summary>
+<details>
+	<summary>Uses for quantum computing</summary>
 	
  - Database searching
  - Decryption of private/RSA keys
  - Simulations
  - Developing new materials with longer chains molecules
 
-</detail>
+</details>
 
 
 > 
